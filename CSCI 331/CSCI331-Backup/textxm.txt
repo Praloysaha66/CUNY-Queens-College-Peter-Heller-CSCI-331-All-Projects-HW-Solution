@@ -1,0 +1,2 @@
+
+docker cp "C:\CSCI331-Backup\" linux-sql2k19:/var/opt/mssql/backup/
